@@ -1,13 +1,8 @@
 
-<region>
-
-    const path = require('path');
-
-</region>
 
 <namespace code1101110>
 
-    <namespace database>
+    <namespace login>
 
         <module manager>
 
@@ -17,7 +12,7 @@
 
                     function(){
 
-
+                        
 
                     }
 
@@ -32,20 +27,6 @@
                     function(){
 
 
-
-                    }
-
-                </method>
-
-                <method SaveData>
-
-                    function(){
-
-                        const filePath = path.join(__dirname,'..','global','data.json');
-
-                        const jsonData = JSON.stringify(@:data);
-
-                        fs.writeFileSync(filePath, jsonData);
 
                     }
 

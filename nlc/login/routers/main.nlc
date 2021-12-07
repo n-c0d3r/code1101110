@@ -1,0 +1,23 @@
+
+
+<namespace code1101110>
+
+    <namespace login>
+
+        <module router>
+
+            <routing path {"/login"}>
+
+                (req,res)=>{
+
+                    @:page.Render(req,res);
+
+                }
+
+            </routing>
+
+        </module>
+
+    </namespace>
+
+</namespace>

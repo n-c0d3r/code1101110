@@ -4,9 +4,9 @@
 
     <namespace authentication>
 
-        <package client-pack>
+        <package clientPack>
 
-            <globa-objects />
+            <global-objects />
 
             <modules 
                 code1101110:authentication:manager

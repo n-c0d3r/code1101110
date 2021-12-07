@@ -1,0 +1,37 @@
+
+
+<namespace code1101110>
+
+    <namespace virtualNetwork>
+
+        <package mainPack>
+
+            <global-objects 
+            
+
+
+            />
+
+            <modules 
+
+                code1101110:virtualNetwork:manager
+                
+            />
+
+            <ui:components 
+
+
+            
+            />
+
+            <packages 
+            
+            
+            
+            />
+
+        </package>
+
+    </namespace>
+
+</namespace>

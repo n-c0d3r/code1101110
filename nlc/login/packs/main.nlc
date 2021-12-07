@@ -1,0 +1,41 @@
+
+
+<namespace code1101110>
+
+    <namespace login>
+
+        <package mainPack>
+
+            <global-objects 
+            
+
+
+            />
+
+            <modules 
+
+                code1101110:login:manager
+                
+            />
+
+            <ui:components 
+
+
+            
+            />
+
+            <packages 
+            
+                code1101110:authentication:clientPack
+            
+                code1101110:user:mainPack
+            
+                code1101110:login:uiPack
+            
+            />
+
+        </package>
+
+    </namespace>
+
+</namespace>

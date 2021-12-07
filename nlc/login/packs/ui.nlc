@@ -1,0 +1,35 @@
+
+
+<namespace code1101110>
+
+    <namespace login>
+
+        <package uiPack>
+
+            <global-objects 
+            
+
+
+            />
+
+            <modules 
+                
+            />
+
+            <ui:components 
+
+                login-main
+            
+            />
+
+            <packages 
+
+            
+            
+            />
+
+        </package>
+
+    </namespace>
+
+</namespace>

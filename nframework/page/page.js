@@ -124,11 +124,12 @@ class Page {
     }
 
     AfterSetup() {
-        this.GetDataFromPackages();
         //this.SetupGlobalObjectsRouter();
     }
 
     Render(req,res){
+        this.GetDataFromPackages();
+
         var framework=this.manager.NFramework;
 
         var modules=this.modules;

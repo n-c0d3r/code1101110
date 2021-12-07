@@ -1,0 +1,37 @@
+
+
+<namespace code1101110>
+
+    <namespace user>
+
+        <package mainPack>
+
+            <global-objects 
+            
+                
+
+            />
+
+            <modules 
+
+                code1101110:user:manager
+                
+            />
+
+            <ui:components 
+
+
+            
+            />
+
+            <packages 
+            
+            
+            
+            />
+
+        </package>
+
+    </namespace>
+
+</namespace>

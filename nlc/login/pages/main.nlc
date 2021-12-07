@@ -1,0 +1,19 @@
+
+
+<namespace code1101110>
+
+    <namespace login>
+
+        <page page  src { "login.ejs" }>
+            
+            <packages 
+            
+                code1101110:login:mainPack
+            
+            />
+
+        </page>
+
+    </namespace>
+
+</namespace>

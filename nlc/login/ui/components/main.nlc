@@ -1,0 +1,30 @@
+<use dom>
+<use html>
+
+
+
+<namespace code1101110>
+
+    <namespace login>
+
+        <ui:component login-main   tag {"main"}>
+
+            constructor(){
+                super();
+            }
+
+            render(){
+                return(
+                    <>
+
+                        
+
+                    </>
+                );
+            }
+
+        </ui:component>
+
+    </namespace>
+
+</namespace>
