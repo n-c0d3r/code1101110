@@ -1,0 +1,16 @@
+{
+    "nmodules_src_dir": "./nlc",
+    "recompile_when_startup": true,
+    "use_uglify_js":true,
+    "debug": {
+        "show_nlc_compiled_js": false,
+        "client_nlc": false,
+        "auto_restart_when_nlc_changed": false
+    },
+    "server":{
+        "PORT": 7070
+    },
+    "console":{
+        "enable": false
+    }
+}
