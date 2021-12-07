@@ -1,0 +1,23 @@
+
+
+<namespace code1101110>
+
+    <namespace authentication>
+
+        <package client-pack>
+
+            <globa-objects />
+
+            <modules 
+                code1101110:authentication:manager
+            />
+
+            <ui:components />
+
+            <packages />
+
+        </package>
+
+    </namespace>
+
+</namespace>

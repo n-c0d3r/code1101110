@@ -1,0 +1,60 @@
+
+<region>
+
+    const path = require('path');
+
+</region>
+
+<namespace code1101110>
+
+    <namespace database>
+
+        <module manager>
+
+            <client-only>
+
+                <method setup>
+
+                    function(){
+
+
+
+                    }
+
+                </method>
+
+            </client-only>
+
+            <server-only>
+
+                <method setup>
+
+                    function(){
+
+                        this->SaveData();
+
+                    }
+
+                </method>
+
+                <method SaveData>
+
+                    function(){
+
+                        const filePath = path.join(__dirname,'..','global','data.json');
+
+                        const jsonData = JSON.stringify(@:data);
+
+                        fs.writeFileSync(filePath, jsonData);
+
+                    }
+
+                </method>
+
+            </server-only>
+
+        </module>
+
+    </namespace>
+
+</namespace>

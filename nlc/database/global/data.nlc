@@ -1,0 +1,15 @@
+
+
+<namespace code1101110>
+
+    <namespace database>
+
+        <global data  side {"server"}>
+
+            (require('./data.json'))
+
+        </global>
+
+    </namespace>
+
+</namespace>

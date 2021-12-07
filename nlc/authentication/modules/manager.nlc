@@ -1,0 +1,41 @@
+
+
+<namespace code1101110>
+
+    <namespace authentication>
+
+        <module manager>
+
+            <client-only>
+
+                <method setup>
+
+                    function(){
+
+                        
+
+                    }
+
+                </method>
+
+            </client-only>
+
+            <server-only>
+
+                <method setup>
+
+                    function(){
+
+
+
+                    }
+
+                </method>
+
+            </server-only>
+
+        </module>
+
+    </namespace>
+
+</namespace>
